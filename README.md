@@ -19,7 +19,9 @@ This project explores various machine learning techniques to analyze and classif
 
 - Real-time emotion detection for applications like mental health monitoring and chatbot services.
 
-- Expanding to multilingual emotion recognition for a broader audience. 
+- Expanding to multilingual emotion recognition for a broader audience.
+# Results
+<img src="result.jpeg" alt="Results" width="45%" height="250px"/>
 
 # 📜 References
 Refer to the literature survey and research papers mentioned in the full documentation for an in-depth understanding.
