@@ -3,10 +3,9 @@
 This project focuses on text-based emotion recognition using Machine Learning and NLP techniques. The goal is to classify textual data into seven distinct emotions—Joy, Fear, Anger, Sadness, Disgust, Shame, and Guilt—by leveraging various machine learning classifiers.
 
 # 🔍 Overview
-
 Feature Extraction: 
   - Uses n-grams, CountVectorizer, and DictVectorizer for feature representation.</br>
-Machine Learning Models: </br>
+Machine Learning Models: 
   - Support Vector Machine (SVM)
   - Random Forest Classifier
   - Decision Tree Classifier </br>
