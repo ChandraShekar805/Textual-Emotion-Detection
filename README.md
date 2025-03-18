@@ -15,11 +15,11 @@ This project explores various machine learning techniques to analyze and classif
 - Visualization: Includes classification results, confusion matrices, and performance metrics.
 
 # 🚀 Future Enhancements
-Integrating Deep Learning models (LSTMs, BERT, ROBERTA) for improved contextual understanding. 
+- Integrating Deep Learning models (LSTMs, BERT, ROBERTA) for improved contextual understanding. 
 
-Real-time emotion detection for applications like mental health monitoring and chatbot services.
+- Real-time emotion detection for applications like mental health monitoring and chatbot services.
 
-Expanding to multilingual emotion recognition for a broader audience. 
+- Expanding to multilingual emotion recognition for a broader audience. 
 
 # 📜 References
 Refer to the literature survey and research papers mentioned in the full documentation for an in-depth understanding.
