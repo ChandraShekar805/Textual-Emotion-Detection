@@ -4,17 +4,17 @@ This project focuses on text-based emotion recognition using Machine Learning an
 
 # 🔍 Overview
 
-Feature Extraction: 
+# Feature Extraction: 
   - Uses n-grams, CountVectorizer, and DictVectorizer for feature representation.
-Machine Learning Models: </br>
+# Machine Learning Models: </br>
   - Support Vector Machine (SVM)
   - Random Forest Classifier
   - Decision Tree Classifier
-Dataset:
+# Dataset:
   - Emotion-labeled dataset from Kaggle
-Performance Analysis:
+# Performance Analysis:
   - Compares model accuracy, generalization, and interpretability.
-Visualization:
+# Visualization:
   - Emotion classification results, confusion matrices, and performance metrics.
 
 # 🚀 Future Enhancements
